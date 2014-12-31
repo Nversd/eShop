@@ -1,0 +1,4 @@
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\Model\bin\Debug\EShop.Model.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\Model\bin\Debug\EShop.Model.pdb
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\Model\obj\Debug\EShop.Model.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\Model\obj\Debug\EShop.Model.pdb

@@ -1,0 +1,7 @@
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\DBUtility\bin\Debug\EShop.DBUtility.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\DBUtility\bin\Debug\EShop.DBUtility.pdb
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\DBUtility\bin\Debug\MySql.Data.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\DBUtility\bin\Debug\System.Data.SQLite.DLL
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\DBUtility\obj\Debug\EShop.DBUtility.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\DBUtility\obj\Debug\EShop.DBUtility.pdb
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache

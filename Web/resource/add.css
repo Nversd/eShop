@@ -1,0 +1,65 @@
+
+
+.btn,
+.btn span,
+.tab_menu li,
+.tab_menu li a { background-image:url(../images/buttons-red.png); background-repeat:no-repeat;}
+
+/* 确定 */
+.btn_confirm { background-position:-113px 0; display:inline-block; width:104px; height:35px; line-height:35px; cursor:pointer;}
+.btn_confirm:hover { background-position:-113px -42px;}
+.btn_confirm span { display:inline-block; text-indent:-9999px; background-image:none; text-align:left;}
+
+/* 登录 */
+.btn_login { background-position:0 0; display:inline-block; width:104px; height:35px; line-height:35px; cursor:pointer;}
+.btn_login:hover { background-position:0 -42px;}
+.btn_login span { display:inline-block; text-indent:-9999px; background-image:none; text-align:left;}
+
+/* 同意以下协议并登录 */
+.btn_acceptAndRegister { background-position:0 -84px; display:inline-block; width:215px; height:35px; line-height:35px; cursor:pointer;}
+.btn_acceptAndRegister:hover { background-position:0 -126px;}
+.btn_acceptAndRegister span { display:inline-block; text-indent:-9999px; background-image:none; text-align:left;}
+
+/* 注册 */
+.btn_register { background-position:-226px -84px; display:inline-block; width:104px; height:35px; line-height:35px; cursor:pointer;}
+.btn_register:hover { background-position:-226px -126px;}
+.btn_register span { display:inline-block; text-indent:-9999px; background-image:none; text-align:left;}
+
+/* 注册新用户 */
+.btn_registerNew { background-position:-226px -253px; display:inline-block; width:152px; height:35px; line-height:42px; cursor:pointer;}
+.btn_registerNew:hover { background-position:-226px -295px;}
+.btn_registerNew span { display:inline-block; text-indent:-9999px; background-image:none; text-align:left;}
+
+
+/* 普通按钮 */
+.btn_common { background-position:0 -699px; display:inline-block; height:27px; line-height:27px; padding:0 0 0 15px; margin:0; cursor:pointer; color:#404040; font-style:normal;}
+.btn_common:hover { background-position:0 -727px; color:#404040;}
+.btn_common span { background-position:right -643px; display:inline-block; height:27px; line-height:27px; padding:0 15px 0 0; margin:0;cursor: pointer;}
+.btn_common:hover span { background-position:right -671px;}
+
+/* 重要按钮 */
+.btn_important { background-position:0 -820px; display:inline-block; height:27px; line-height:27px; padding:0 0 0 15px; margin:0; cursor:pointer; color:#FFF;}
+.btn_important:hover { background-position:0 -848px; color:#FFF;}
+.btn_important span { background-position:right -764px; display:inline-block; height:27px; line-height:27px; padding:0 15px 0 0; margin:0;cursor: pointer; color:#FFF; font-weight:bold;}
+.btn_important:hover span { background-position:right -792px;}
+
+
+/* 关闭按钮 */
+.btn_close { width:15px; height:14px; overflow:hidden; background-position:-383px -308px; display:inline-block; cursor:pointer; float:right; margin:3px 0 0; +margin:-20px 6px 0 0; _margin:-20px 6px 0 0; text-indent:-9999px;}
+.btn_close:hover { background-position:-383px -323px; }
+
+.btn_close_1 {width:14px; height:14px; overflow:hidden; background-position:-17px -1623px; display:inline-block; cursor:pointer; float:right; margin:4px 0 0; +margin:-18px 6px 0 0; _margin:-18px 6px 0 0; text-indent:-9999px;}
+
+
+/* tab */
+.tab_menu { border-bottom:1px solid #ccc; list-style:none; height:30px; padding-left:20px; margin:0;}
+.tab_menu li { float:left; list-style:none; height:30px; line-height:30px;}
+.tab_menu li { float:left; list-style:none; height:30px; background-position:0 -991px; padding-left:4px; margin-right:5px;}
+.tab_menu li a { float:left; height:30px; background-position:right -991px; padding:0 20px 0 16px; line-height:30px; color:#404040; overflow:hidden;}
+.tab_menu li.current { position:relative; height:31px; background-position:0 -1023px; margin-bottom:-1px;}
+.tab_menu li.current a { height:31px; background-position:right -1023px; font-weight:bold;}
+
+
+
+
+.verify_text { display:block; color:#999;}

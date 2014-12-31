@@ -1,0 +1,8 @@
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\Common\bin\Debug\EShop.Common.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\Common\bin\Debug\EShop.Common.pdb
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\Common\bin\Debug\COM.Excel.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\Common\bin\Debug\OpenSmtp.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\Common\bin\Debug\OWC10Chart.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\Common\obj\Debug\EShop.Common.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\Common\obj\Debug\EShop.Common.pdb
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache

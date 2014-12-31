@@ -1,0 +1,14 @@
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\BLL\bin\Debug\EShop.BLL.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\BLL\bin\Debug\EShop.BLL.pdb
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\BLL\bin\Debug\EShop.Common.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\BLL\bin\Debug\EShop.DALFactory.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\BLL\bin\Debug\EShop.IDAL.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\BLL\bin\Debug\EShop.Model.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\BLL\bin\Debug\OpenSmtp.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\BLL\bin\Debug\EShop.Common.pdb
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\BLL\bin\Debug\EShop.DALFactory.pdb
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\BLL\bin\Debug\EShop.IDAL.pdb
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\BLL\bin\Debug\EShop.Model.pdb
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\BLL\obj\Debug\EShop.BLL.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\BLL\obj\Debug\EShop.BLL.pdb

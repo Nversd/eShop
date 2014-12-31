@@ -1,0 +1,16 @@
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\OracleDAL\bin\Debug\EShop.OracleDAL.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\OracleDAL\bin\Debug\EShop.OracleDAL.pdb
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\OracleDAL\bin\Debug\EShop.Common.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\OracleDAL\bin\Debug\EShop.DBUtility.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\OracleDAL\bin\Debug\EShop.IDAL.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\OracleDAL\bin\Debug\EShop.Model.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\OracleDAL\bin\Debug\OpenSmtp.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\OracleDAL\bin\Debug\System.Data.SQLite.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\OracleDAL\bin\Debug\MySql.Data.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\OracleDAL\bin\Debug\EShop.Common.pdb
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\OracleDAL\bin\Debug\EShop.DBUtility.pdb
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\OracleDAL\bin\Debug\EShop.IDAL.pdb
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\OracleDAL\bin\Debug\EShop.Model.pdb
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\OracleDAL\obj\Debug\OracleDAL.csprojResolveAssemblyReference.cache
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\OracleDAL\obj\Debug\EShop.OracleDAL.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\OracleDAL\obj\Debug\EShop.OracleDAL.pdb

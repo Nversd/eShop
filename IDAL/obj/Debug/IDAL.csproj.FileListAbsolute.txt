@@ -1,0 +1,7 @@
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\IDAL\bin\Debug\EShop.IDAL.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\IDAL\bin\Debug\EShop.IDAL.pdb
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\IDAL\bin\Debug\EShop.Model.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\IDAL\bin\Debug\EShop.Model.pdb
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\IDAL\obj\Debug\EShop.IDAL.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\IDAL\obj\Debug\EShop.IDAL.pdb

@@ -1,0 +1,125 @@
+/* 弹出式窗口 */
+#pop_overlay {
+	position: fixed;
+	z-index:200;
+	top: 0px;
+	left: 0px;
+	height:100%;
+	width:100%;
+	display:;
+}
+.pop_overlay {
+	background-color:#000;
+	filter:alpha(opacity=20);
+	-moz-opacity: 0.2;
+	opacity: 0.2;
+}
+* html #pop_overlay { /* ie6 hack */
+     position: absolute;
+     height: expression(document.body.scrollHeight > document.body.offsetHeight ? document.body.scrollHeight : document.body.offsetHeight + 'px');	 
+	 width: expression(document.body.scrollWidth > document.body.offsetWidth ? document.body.scrollWidth : document.body.offsetWidth + 'px');	 
+}
+
+#pop_load{
+	position: fixed;
+	display:;
+	height:13px;
+	width:208px;
+	z-index:201;
+	top: 50%;
+	left: 50%;
+	margin: -6px 0 0 -104px; /* -height/2 0 0 -width/2 */
+}
+
+* html #pop_load { /* ie6 hack */
+position: absolute;
+margin-top: expression(0 - parseInt(this.offsetHeight / 2) + (TBWindowMargin = document.documentElement && document.documentElement.scrollTop || document.body.scrollTop) + 'px');
+}
+
+#pop_window {
+	position: fixed;
+	z-index: 202;
+	color:#000000;
+	display:;
+	text-align:left;
+	top:50%;
+	left:50%;
+	margin-left: -195px; 
+	margin-top: -150px; 
+	width: 390px; 
+}
+* html #pop_window { /* ie6 hack */
+position: absolute;
+margin-top: expression(0 - parseInt(this.offsetHeight / 2) + (TBWindowMargin = document.documentElement && document.documentElement.scrollTop || document.body.scrollTop) + 'px');
+}
+
+#pop_window table { width:100%;}
+.pop_tl,
+.pop_tc,
+.pop_tr,
+.pop_cl,
+.pop_cr,
+.pop_bl,
+.pop_bc,
+.pop_br { 
+	background-color:#000;
+	filter:alpha(opacity=30);
+	-moz-opacity: 0.3;
+	opacity: 0.3;
+}
+.pop_cc { background:#FFF; border:1px solid #999;}
+
+.pop_tl,
+.pop_tr,
+.pop_cl,
+.pop_cr,
+.pop_bl,
+.pop_br { width:5px; height:5px;}
+
+.pop_tc,
+.pop_bc { height:5px;}
+
+#pop_header { border-bottom:1px solid #ccc; background:#f1f1f1; padding:5px 10px; overflow:auto; _height:1%;}
+#pop_header span { color:#404040; font:bold 12px/1.5em Tahoma, Geneva, sans-serif; float:left;}
+#pop_header em { margin:3px 0 0 0;}
+#pop_content { border-bottom:1px solid #ccc; width: 380px; }
+.pop_content_inner { padding:10px 15px; overflow:auto; _height:1%;}
+#pop_footer { background:#f1f1f1; text-align:center; }
+#pop_footer p { margin:0; padding:10px;}
+
+
+
+/* 弹窗 注册、登录 */
+#pop_login {}
+#pop_login_form { margin:20px 0 0;}
+
+#pop_login_form th {width:60px; text-align:right; font-weight:normal; vertical-align:top; padding-top:5px;}
+#pop_login_form td { vertical-align:top;}
+#pop_login_form td .login_text { width:240px;}
+
+#pop_register_form { margin-top:20px;}
+#pop_register_form th {width:60px; text-align:right; font-weight:normal; vertical-align:top; padding-top:5px;}
+#pop_register_form td { vertical-align:top; height:40px;}
+#pop_register_form td .login_text { width:240px;}
+#pop_register_form td .login_text_small { width:60px;}
+
+#pop_login_form td .vevify_img,
+#pop_register_form td .vevify_img { vertical-align:top;}
+#pop_login_form td .verify_text,
+#pop_register_form td .verify_text { color:#999; height:22px; line-height:22px;}
+
+/* 验证 */
+input.invalid { border-color:#C00;}
+.verify_text .invalid { color:#C00;}
+
+
+/* 弹窗 */
+.pop_tb_hd th { border-top:0px solid #ccc; background:#f2f2f2; color:#404040; font-weight:normal; line-height:30px; text-align:center;}
+.pop_tb_bd td { text-align:center; height:27px;}
+.pop_tb_ft td { border-top:1px solid #ccc; font-style:normal;}
+.pop_ft_button { margin:0; height:32px; padding-top:8px; float:left;}
+.pop_ft_button a { margin:0 5px;}
+.pop_pages { text-align:right;}
+.pop_pages a { margin:0 10px;}
+
+

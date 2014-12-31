@@ -1,0 +1,16 @@
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\SQLServerDAL\obj\Debug\SQLServerDAL.csprojResolveAssemblyReference.cache
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\SQLServerDAL\bin\Debug\EShop.SQLServerDAL.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\SQLServerDAL\bin\Debug\EShop.SQLServerDAL.pdb
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\SQLServerDAL\bin\Debug\EShop.Common.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\SQLServerDAL\bin\Debug\EShop.DBUtility.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\SQLServerDAL\bin\Debug\EShop.IDAL.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\SQLServerDAL\bin\Debug\EShop.Model.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\SQLServerDAL\bin\Debug\OpenSmtp.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\SQLServerDAL\bin\Debug\System.Data.SQLite.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\SQLServerDAL\bin\Debug\MySql.Data.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\SQLServerDAL\bin\Debug\EShop.Common.pdb
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\SQLServerDAL\bin\Debug\EShop.DBUtility.pdb
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\SQLServerDAL\bin\Debug\EShop.IDAL.pdb
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\SQLServerDAL\bin\Debug\EShop.Model.pdb
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\SQLServerDAL\obj\Debug\EShop.SQLServerDAL.dll
+D:\Old\Documents\Visual Studio 2013\Projects\EShop\SQLServerDAL\obj\Debug\EShop.SQLServerDAL.pdb
